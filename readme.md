@@ -309,5 +309,8 @@ DATABASE_URL=sqlite:///./games.db
 
 
 
-
+## Пример работы
+<img src="screen_0.png" width="700">
+<img src="screen_1.png" width="700">
+<img src="screen_3.png" width="700">
 
